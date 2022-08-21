@@ -1,0 +1,1 @@
+Mod of mod_stamina which removes Hunger and makes sprinting time based
